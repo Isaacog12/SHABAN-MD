@@ -17,7 +17,7 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS*",
 // set the auto reply massage on status reply
 WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
-ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
+ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false"
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
